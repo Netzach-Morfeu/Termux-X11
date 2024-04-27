@@ -8,6 +8,6 @@
 bash <( curl -Ls https://raw.githubusercontent.com/Netzach-Morfeu/Termux-X11/main/install.sh)
 ```
 
-> quando terminar 
->  abra o [TermuxX11] [PlDb]
+> qualquer erro por favor me comunicar
+> estou a disposição em <a href="https://t.me/netzach_777" value="Telegram"/>
 

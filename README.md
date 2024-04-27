@@ -1,5 +1,5 @@
 # Termux-X11
-- primeiro baixe e instale a ultima versao compativel so [ TermuxX11 ] ( https://github.com/termux/termux-x11/releases )
+- primeiro baixe e instale a ultima versao compativel so <a href="https://github.com/termux/termux-x11/releases"> Termux:X11</>
 
 ## codigo unico
 ```
